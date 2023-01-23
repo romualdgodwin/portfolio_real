@@ -1,0 +1,83 @@
+#conteneur
+{
+    border: medium #00ffff inset;
+    width: 500px;
+    height: 630px;
+    margin: 0px auto 0px auto;
+    position: relative;
+    background-color: #97d3cb;
+}
+
+#entete{
+    background-color: #4B4453;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    display: inline;
+
+}
+#photo{
+    position: relative;
+    margin-top: 10px;
+}
+
+#corps
+{
+    position: center;
+    background-color: #a18d8d;
+    width: 500px;
+    height: 300px;
+}
+
+#contenuDroite
+{
+    width: 300px;
+    height: 300px;
+    background-color: #2e5954;
+    float: right;
+    text-align: center;
+    color: #a18d8d;
+}
+
+#planGauche
+{
+    height: 300px;
+    width: 200px;
+    background-color: #B0A8B9;
+    float: left;
+    text-align: center;
+}
+
+#pied
+{
+    background-color: #a18d8d;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+}
+
+.enligne
+{
+    display: inline;
+    margin-right: 10px;
+}
+
+a
+{
+    color: #97d3cb;
+}
+
+p
+{
+    text-align: center;
+    color: white;
+}
+
+img
+{
+    margin-right: 25px;
+}
+#CV{
+    text-align: center;
+    ;
+}
